@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{example.html}
+= Murat Cubuktepe
+([mcubuktepe@utexas.edu])
+
+~~~
+{}{img_left}{tac_photo.jpeg}{alt text}{100}{120}{IMGLINKTARGET}
+PhD student
+
+[http://www.ae.utexas.edu/ Aerospace Engineering and Engineering Mechanics]\n [http://utexas.edu/ University of Texas at Austin ]\n Advisor: [https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page/ Ufuk Topcu]
+~~~
+ 	
+
+
+== Short bio
+I am PhD student at the [https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page UT Autonomous] group since August 2015. I received my M.Sc.  in [http://www.ae.utexas.edu/ Aerospace Engineering] in June 2017 at the [https://www.utexas.edu/ University of Texas at Austin]. I received  my B.Sc. in [http://www.me.boun.edu.tr/ Mechanical Engineering] in June 2015 at the [http://boun.edu.tr/ Bogazici University], Turkey.
+
+My research focuses on developing theory and algorithms that guarantee desired behavior of autonomous systems operating in uncertain and partially observable environments. I apply tools from formal methods, control and optimization to develop scalable methods to guarantee the correct behavior of autonomous systems.
+
+
+== Research Interests
+
+- Verification and synthesis of uncertain and parametric probabilistic systems
+- Convex optimization applications in formal methods, learning, robotics and control
+- Partially observable probabilistic systems, like POMDPs and POSGs
+- Autonomy and Cyber-physical systems
+
+== Contact
+
+[https://scholar.google.com/citations?user=Yw8TY7gAAAAJ&hl=en Google Scholar Page]
+
+[http://dblp.uni-trier.de/pers/hd/c/Cubuktepe:Murat DBLP Page]
+
+[https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page UT Group Page]
+
+[mcubuktepe@utexas.edu e-mail]
+
+# jemdoc: menu{MENU}{publications.html}
+
+
