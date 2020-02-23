@@ -1,6 +1,15 @@
 # jemdoc: menu{MENU}{example.html}
 = Publications
 
+- B. Wu, M. Cubuktepe, D. Franck, Z. Xu, and U. Topcu. [https://arxiv.org/pdf/2001.00835 Policy Synthesis of Switched Linear
+Systems with Markov Decision Process Switching.] In IEEE Transactions on Automatic Control, Submitted. IEEE, 2020.
+
+- M. Suilen, N. Jansen, M. Cubuktepe, and U. Topcu. [https://arxiv.org/pdf/2001.08174 Robust Convex Optimization for Uncertain Partially Observable Markov Decision Processes.] In 29th International Joint Conference on Artificial Intelligence, Submitted. IJCAI, 2020.
+
+- M. Cubuktepe, Z. Xu, and U. Topcu. [https://arxiv.org/pdf/2001.09066.pdf Policy Synthesis for Factored MDPs with Graph Temporal Logic Specifications.] In International Conference on Autonomous Agents and Multi-Agent Systems 2020, Accepted. ACM, 2020.
+
+- M. Cubuktepe, N. Jansen, S. Junges, J. P. Katoen, and U. Topcu. [https://arxiv.org/pdf/1912.11223.pdf Scenario-Based Verification of Uncertain MDPs.] In International Symposium on Automated Technology for Verification and Analysis, Accepted. Springer, 2020.
+
 - B. Wu, M. Cubuktepe, and U. Topcu. [https://arxiv.org/pdf/1904.11456.pdf Switched Linear Systems Meet Markov Decision Processes: Stability Guaranteed Policy Synthesis]. In 2019 58th Conference on Decision and Control, Submitted. IEEE, 2019.
 
 - B. Wu, M. Cubuktepe, S. Bharadwaj, and U. Topcu. [https://arxiv.org/pdf/1904.11454.pdf Reward-Based Deception with Cognitive Bias.] In 2019 58th Conference on Decision and Control, Submitted. IEEE, 2019.
@@ -9,8 +18,7 @@
 
 - Y. Savas, M. Ornik, M. Cubuktepe, M. Karabag and U. Topcu. [https://arxiv.org/pdf/1807.03223.pdf Entropy Maximization for Markov Decision Processes Under Temporal Logic Constraints.] In IEEE Transactions of Automatic Control, Accepted. IEEE, 2019.
 
-- M. Cubuktepe, N. Jansen, S. Junges, J. P. Katoen, and U. Topcu. [https://link.springer.com/content/pdf/10.1007%2F978-3-030-01090-4_10.pdf Synthesis in pMDPs: A Tale of 1001 Parameters.] In International Symposium on Automated Technology for Verification
-and Analysis, pages 160–176. Springer, 2018.
+- M. Cubuktepe, N. Jansen, S. Junges, J. P. Katoen, and U. Topcu. [https://link.springer.com/content/pdf/10.1007%2F978-3-030-01090-4_10.pdf Synthesis in pMDPs: A Tale of 1001 Parameters.] In International Symposium on Automated Technology for Verification and Analysis, pages 160–176. Springer, 2018.
 
 - M. Cubuktepe, M. Ahmadi, U. Topcu, and B. Hencey. [https://www.sciencedirect.com/sdfe/reader/pii/S2405896318311339/pdf Compositional Analysis of Hybrid Systems Defined Over Finite Alphabets.] In IFAC Conference on Analysis and Design of Hybrid Systems, pages 115–120. Elsevier, 2018.
 
