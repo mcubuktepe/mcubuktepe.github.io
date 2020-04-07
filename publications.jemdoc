@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{example.html}
 = Publications
 
+- M. Cubuktepe, T. Tanaka, and U. Topcu. [https://arxiv.org/pdf/2004.02356.pdf Scalable Synthesis of Minimum-Information Linear-Gaussian
+Control by Distributed Optimization.] In 2020 59th Conference on Decision and Control, Submitted. IEEE, 2020.
+
 - B. Wu, M. Cubuktepe, D. Franck, Z. Xu, and U. Topcu. [https://arxiv.org/pdf/2001.00835 Policy Synthesis of Switched Linear
 Systems with Markov Decision Process Switching.] In IEEE Transactions on Automatic Control, Submitted. IEEE, 2020.
 
@@ -10,9 +13,9 @@ Systems with Markov Decision Process Switching.] In IEEE Transactions on Automat
 
 - M. Cubuktepe, N. Jansen, S. Junges, J. P. Katoen, and U. Topcu. [https://arxiv.org/pdf/1912.11223.pdf Scenario-Based Verification of Uncertain MDPs.] In International Symposium on Automated Technology for Verification and Analysis, Accepted. Springer, 2020.
 
-- B. Wu, M. Cubuktepe, and U. Topcu. [https://arxiv.org/pdf/1904.11456.pdf Switched Linear Systems Meet Markov Decision Processes: Stability Guaranteed Policy Synthesis]. In 2019 58th Conference on Decision and Control, Submitted. IEEE, 2019.
+- B. Wu, M. Cubuktepe, and U. Topcu. [https://arxiv.org/pdf/1904.11456.pdf Switched Linear Systems Meet Markov Decision Processes: Stability Guaranteed Policy Synthesis.] In 2019 58th Conference on Decision and Control, Accepted. IEEE, 2019.
 
-- B. Wu, M. Cubuktepe, S. Bharadwaj, and U. Topcu. [https://arxiv.org/pdf/1904.11454.pdf Reward-Based Deception with Cognitive Bias.] In 2019 58th Conference on Decision and Control, Submitted. IEEE, 2019.
+- B. Wu, M. Cubuktepe, S. Bharadwaj, and U. Topcu. [https://arxiv.org/pdf/1904.11454.pdf Reward-Based Deception with Cognitive Bias.] In 2019 58th Conference on Decision and Control, Accepted. IEEE, 2019.
 
 - M. Cubuktepe, N. Jansen, M. Alsiekh, and U. Topcu. [https://arxiv.org/pdf/1905.06471.pdf Synthesis of Provably Correct Autonomy Protocols for Shared Control.] In IEEE Transactions on Automatic Control, Submitted. IEEE, 2019.
 
