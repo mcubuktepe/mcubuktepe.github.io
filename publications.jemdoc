@@ -1,13 +1,20 @@
 # jemdoc: menu{MENU}{example.html}
 = Publications
 
+- M. Cubuktepe, N. Jansen, S. Junges, A. Marandi, M. Suilen, and U. Topcu. Robust Finite-State Controllers for Uncertain POMDPs. In The Thirty-Fifth AAAI Conference
+on Artificial Intelligence, To be Submitted. AAAI, 2021.
+
 - M. Cubuktepe, T. Tanaka, and U. Topcu. [https://arxiv.org/pdf/2004.02356.pdf Scalable Synthesis of Minimum-Information Linear-Gaussian
-Control by Distributed Optimization.] In 2020 59th Conference on Decision and Control, Submitted. IEEE, 2020.
+Control by Distributed Optimization.] In 2020 59th Conference on Decision and Control, Accepted. IEEE, 2020.
 
 - B. Wu, M. Cubuktepe, D. Franck, Z. Xu, and U. Topcu. [https://arxiv.org/pdf/2001.00835 Policy Synthesis of Switched Linear
 Systems with Markov Decision Process Switching.] In IEEE Transactions on Automatic Control, Submitted. IEEE, 2020.
 
-- M. Suilen, N. Jansen, M. Cubuktepe, and U. Topcu. [https://arxiv.org/pdf/2001.08174 Robust Convex Optimization for Uncertain Partially Observable Markov Decision Processes.] In 29th International Joint Conference on Artificial Intelligence, Submitted. IJCAI, 2020.
+- M. Cubuktepe, N. Jansen, S. Junges, J. P. Katoen, and U. Topcu. Convex Optimization for Parameter Synthesis in MDPs. In IEEE Transactions on Automatic Control, To be Submitted. IEEE, 2020.
+
+- M. Suilen, N. Jansen, M. Cubuktepe, and U. Topcu. [https://arxiv.org/pdf/2001.08174 Robust Convex Optimization for Uncertain Partially Observable Markov Decision Processes.] In 29th International Joint Conference on Artificial Intelligence, Accepted. IJCAI, 2020.
+
+- M. Cubuktepe, Z. Xu, and U. Topcu. Distributed Policy Synthesis of Multi-Agent Systems with Graph Temporal Logic Specifications. In IEEE Transactions on Control of Network Systems, To Be Submitted. IEEE, 2020.
 
 - M. Cubuktepe, Z. Xu, and U. Topcu. [https://arxiv.org/pdf/2001.09066.pdf Policy Synthesis for Factored MDPs with Graph Temporal Logic Specifications.] In International Conference on Autonomous Agents and Multi-Agent Systems 2020, Accepted. ACM, 2020.
 
