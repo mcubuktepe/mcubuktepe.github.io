@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{example.html}
+= Research Summary
+
+Autonomous systems have great potential to improve human life quality in many domains. 
+They can, for example, eliminate the occurrence of costly accidents in aircraft and space systems.
+Multiple systems with different capabilities can collaborate to save lives in search and rescue scenarios.
+They can coordinate and adapt to human operators to improve both human and system performance in everyday life.
+
+To achieve this potential, autonomous systems have to act in environments that evolve over time, also alongside humans or other autonomous systems.
+These systems require verifiable assurance of, for example, security and safety to deploy them at scale. 
+Current approaches to building assurance in autonomous systems rely on large-scale simulations and field tests.
+However, autonomous systems operate in environments that may change abruptly.
+They increasingly rely on artificial intelligence techniques for perception and decision making in these environments.
+The outcomes of such techniques lack the safety and robustness that is critical for autonomous systems.
+
+My research have addressed several key limitations in the automated verification and synthesis of autonomous systems.
+I have developed algorithms for systems operating in uncertain, dynamic environments and interacting with other agents and humans.
+These algorithms are not only theoretically sound but also computationally efficient.
+I demonstrated their computational efficiency on problems such as providing robustness against operator and pilot errors in spacecraft and airborne collision avoidance, controlling a large number of robots for search and rescue scenarios, and minimizing crime rate against risk-sensitive adversaries in urban security.
+I highlight three of the key contributions of my research as follows.
+
+-I developed algorithms for a general family of models called uncertain partially observable Markov decision processes to deliver tasks expressed in rich temporal logic specifications.
+Such models are widely used in artificial intelligence, planning, autonomy, and control theory.
+The synthesis of policies for this family of models has been regarded theoretically and empirically intractable.
+I discovered an underlying structure in these models that allows an approximation based on convex optimization.
+This approximation leads to an efficient solution but also provides apriori guarantees on the performance of the policy.   %rewrtie, the structure did something
+By exploiting this structure, the algorithms can synthesize robust controllers for the adaptation of an aircraft collision avoidance system in the presence of other autonomous aircraft.
