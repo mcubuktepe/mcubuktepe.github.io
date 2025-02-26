@@ -4,9 +4,9 @@
 
 ~~~
 {}{img_left}{tac_photo.jpeg}{alt text}{100}{120}{IMGLINKTARGET}
-Senior AI Scientist
+Senior Data Scientist
 
-[https://www.dematic.com/en-us/ Dematic]
+[https://ae.studio/ AE Studio]
 ~~~
  	
 
@@ -14,12 +14,16 @@ Senior AI Scientist
 == Biography
 Murat Cubuktepe received his Ph.D degree in Aerospace Engineering at the University of Texas at Austin under the supervision of [https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page Prof. Ufuk Topcu]. He received his M.Sc degree in [http://www.ae.utexas.edu/ Aerospace Engineering] from the University of Texas at Austin and B.Sc. degree in [http://www.me.boun.edu.tr/ Mechanical Engineering] from Bogazici University. 
 
-He now works at Dematic to develop and deploy reinforcement-learning-based-algorithms for supply chain optimization. His research objective is to develop theory and algorithms for verified learning and control for autonomous systems. In particular, he focuses on 1) verified learning and control in uncertain, dynamic environments under partial information, 2) coordinating large-scale multi-agent systems to implement spatial-temporal tasks, and 3) verifiable human-robot interaction accounting for the potential biases of humans risk perception.
+At AE Studio, he developed an interpretability framework with Goodfire AI for interpreting and steering the behavior of Llama LLMs. He also co-authored the research paper [https://www.goodfire.ai/papers/mapping-latent-spaces-llama Mapping the Latent Space of Llama 3.3 70B]. He also works on AI Alignment research, and built image & video generation tools leveraging diffusion models.
+
+At Dematic, he developed and deployed reinforcement-learning-based-algorithms for supply chain optimization. His research objective is to develop theory and algorithms for verified learning and control for autonomous systems. In particular, he focuses on 1) verified learning and control in uncertain, dynamic environments under partial information, 2) coordinating large-scale multi-agent systems to implement spatial-temporal tasks, and 3) verifiable human-robot interaction accounting for the potential biases of humans risk perception.
 
 
 
 == Research Interests
 
+- AI alignment and safety
+- Interpretability of large language models
 - Verification and synthesis of uncertain and parametric probabilistic systems
 - Distributed synthesis of heterogeneous multi-agent systems
 - Verifiable human-robot interaction
@@ -34,9 +38,9 @@ He now works at Dematic to develop and deploy reinforcement-learning-based-algor
 
 [http://dblp.uni-trier.de/pers/hd/c/Cubuktepe:Murat DBLP Page]
 
-[https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page UT Group Page]
+[https://github.com/mcubuktepe Github Page]
 
-[mcubuktepe@utexas.edu e-mail]
+[mcubuktepe@gmail.com e-mail]
 
 # jemdoc: menu{MENU}{publications.html}
 
